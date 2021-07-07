@@ -1,4 +1,4 @@
-# This is an App that I made following a videotutorial
+# Practicing ReactJS
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
